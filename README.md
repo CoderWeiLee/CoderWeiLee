@@ -3,5 +3,7 @@
  - :hammer: Boss Of A Company
  - :ram: One of MJ's Students
  - :meat_on_bone: Make Money Lover
-[![Geek__Lee's github stats](https://github-readme-stats.vercel.app/api?username=CoderWeiLee)](https://github.com/CoderWeiLee/github-readme-stats)
+ 
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CoderWeiLee&show_icons=true)
 
